@@ -1,0 +1,24 @@
+{
+    "name": "A.P. (DIR Series) Circular No. 31",
+    "date_of_issue": "June 15, 2018",
+    "summary": "The Reserve Bank of India has issued a circular to provide operational flexibility and transition path for Foreign Portfolio Investors (FPIs) and custodians to adapt to the regulations on investment by FPIs in debt. The circular supersedes previous directions and defines short-term investments as those with residual maturity up to one year. It revises minimum residual maturity requirements for FPIs, defines related terms such as 'related FPIs', 'entities related to the corporate', and 'Multilateral Financial Institutions'. It also exempts certain securities from these definitions. The circular outlines revised investment limits and guidelines for FPIs in India, including a cap on aggregate FPI investments in Central Government securities, online monitoring of G-sec and SDL category investments, and requirements for short-term investments. It outlines concentration limits and investment requirements for FPIs in Government securities (G-secs), State Development Loans (SDLs), and corporate debt securities, as well as single/group investor-wise limits in corporate bonds. The circular also outlines changes to investment requirements for FPIs in corporate bonds and securities, effective immediately, including exemption of pipeline investments from certain requirements, withdrawal of previous exposure limits, and prohibition on investing in partly paid debt instruments. It states that the directions issued are under sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999, without prejudice to permissions/approvals required under other laws.",
+    "relations": {
+        "A.P. (DIR Series) Circular No. 22": "invited to",
+        "A.P. (DIR Series) Circular No. 24": "superseded",
+        "A.P. (DIR Series) Circular No. 26": "superseded",
+        "Notification No. FEMA.396/2019-RB": "superseded",
+        "SEBI (Foreign Portfolio Investors) Regulations, 2014": "amended",
+        "Companies Act, 2013": "referenced",
+        "Insolvency and Bankruptcy Code, 2016": "referenced",
+        "A.P. (DIR Series) Circular No. 13 dated July 23, 2014": "superseded",
+        "A.P. (DIR Series) Circular No. 71 dated February 03, 2015": "amended",
+        "A.P. (DIR Series) Circular No.18 dated January 23, 2020": "amended",
+        "A.P. (DIR Series) Circular No.12 dated February 26, 2021": "inserted",
+        "FPI shall not exceed 30%5 of the total investment of that FPI in corporate bonds": "Amended",
+        "A.P. (DIR Series) Circular No. 19 dated October 6, 2015": "Superseded",
+        "SEBI Circular dated November 29, 2018 on FPIs and Debt Securities (Issue of Corporate Bonds and Sale/Purchase of Government securities by FPIs)": "superseded",
+        "SEBI Circular dated August 21, 2020 on FPIs and Debt Securities (Issue of Corporate Bonds and Sale/Purchase of Government securities by FPIs)": "amended",
+        "A.P. (DIR Series) Circular No. 19": "amended",
+        "Foreign Exchange Management Act, 1999 (42 of 1999)": "without prejudice"
+    }
+}

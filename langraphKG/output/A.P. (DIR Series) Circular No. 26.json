@@ -1,0 +1,11 @@
+{
+    "name": "A.P. (DIR Series) Circular No. 26",
+    "date_of_issue": "May 1, 2018",
+    "summary": "The Reserve Bank of India (RBI) has issued a circular to all authorized persons regarding the review of investment by Foreign Portfolio Investors (FPIs) in debt. The circular aims to bring consistency across debt categories, and stipulates that investments by FPIs in corporate bonds with residual maturity below one year shall not exceed 20% of the total investment of that FPI in corporate bonds. The circular clarifies provisions related to Foreign Portfolio Investors (FPIs) investments in treasury bills, securities with residual maturity below one year, and corporate bonds, including concentration limits and online monitoring of G-sec limits. The circular outlines new directions applicable immediately, issued under the Foreign Exchange Management Act, 1999, and are without prejudice to other permissions/approvals required by law.",
+    "relations": {
+        "FEMA.20/2000-RB": "amended",
+        "AP (DIR Series) Circular No. 24 dated April 27, 2018": "amended",
+        "Companies Act, 2013": "referenced",
+        "Foreign Exchange Management Act, 1999 (42 of 1999)": "issued under"
+    }
+}

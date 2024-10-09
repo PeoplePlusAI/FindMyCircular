@@ -1,4 +1,4 @@
-# Find My Circular
+# Find My Circular (FMC)
 To create a knowledge graph that maps public information from regulators to enable easy access and querying, thereby reducing operational overhead and facilitating efficient discovery, research, and documentation.
 
 # The Problem
@@ -14,12 +14,11 @@ Currently, the manner in which Public Authorities in India publish and store inf
 The problem is tackled in 2 parts: 
 
 1. Giving structure to a vast array of regulations through knowledge graphs: 
-The knowledge graphs will capture chronology of relationships which in the case of circulars involve which was repealed, amended etc by another.
+The knowledge graphs will capture  relationships which in the case of circulars involve which was repealed, amended etc by another.
 
-2. Adding ease of use and relevance of use through RAGs: The GraphRAG is able to chunk up the data to retrieve relevant information that is limited only to circulars and allow user interaction through natural language.
+2. Adding ease of use and relevance of use through RAGs: FMC is able to chunk the data to retrieve relevant information that is limited only to circulars and allow user interaction through natural language.
 
-The user is able to interact with circulars via a chat interface and can see outputs that are cited, inferred and synthesised by the LLM layer.
-The system will be automated and scalable. Optimisations can be further made to improve the latency and storage burdens that come with creating a GraphRAG.
+The user is able to interact with circulars via a chat interface and can see outputs that are cited, inferred and synthesised by the LLM layer. The system will be automated and scalable. Optimisations can be further made to improve the latency and storage burdens that come with creating a Knowledge Graph based RAG solution.
 
 
 
