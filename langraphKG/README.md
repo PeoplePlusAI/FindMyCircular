@@ -1,5 +1,3 @@
-# FindMyCircular Technical Documentation
-
 ## Overview
 This project utilizes a Neo4j database within a Docker container and includes a setup script for installing Miniconda and managing Python dependencies.
 
