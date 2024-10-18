@@ -3,10 +3,10 @@
 ## **Table of Contents**  
 1. [Introduction](#introduction)  
 2. [The Problem](#the-problem)
-3. [What is the cost of storage structure]()
-4. [The Solution]()  
+3. [What is the cost of storage structure](#what-is-the-cost-of-this-storage-structure)
+4. [The Solution](#the-solution)  
 5. [Getting Started](#getting-started)  
-7. [Project Resources:Learn more about FMC]()  
+7. [Project Resources:Learn more about FMC](#project-resources-learn-more-about-fmc)  
 8. [Contributing](#contributing)  
 9. [About Us](#about-us)
 
