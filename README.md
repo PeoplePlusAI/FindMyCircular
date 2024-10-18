@@ -30,7 +30,7 @@ The knowledge graphs will capture relationships that, in the case of circulars, 
 
 2. Adding ease of use and relevance through RAGs: FMC can chunk the data to retrieve relevant information limited only to circulars and allows user interaction through natural language.
 
-The user can interact with circulars via a chat interface and can see outputs cited, inferred, and synthesized by the LLM layer. The system will be automated and scalable. Optimizations can be further made to improve the latency and storage burdens that come with creating a Knowledge Graph-based RAG solution.
+The user can interact with circulars via a chat interface and see outputs cited, inferred, and synthesized by the LLM layer. The system will be automated and scalable. Optimizations can be further made to improve the latency and storage burdens of creating a Knowledge Graph-based RAG solution.
 
 # Get Started 
 1. Clone the repository:
@@ -42,7 +42,7 @@ The user can interact with circulars via a chat interface and can see outputs ci
    - [Langraph Knowledge Graph Generator](./langraphKG)
    - [Self-RAG Chatbot](./selfRAG)  
 
-3. Follow the instructions in the README.md for the tool to run it.
+3. Follow the instructions in the README.md for contributing.
 
 # Project Resources: Learn more about FMC
 - [FMC Project Charter](https://docs.google.com/document/d/1BqFkP-UGqeTOClv-3czZY-mAIlulWc3cH3YAZ_YVjBs/edit?usp=sharing)
