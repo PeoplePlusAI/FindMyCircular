@@ -1,0 +1,151 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
+  <diagram name="Page-1" id="dh8NpA-eWEamOWIfKSwi">
+    <mxGraphModel dx="1615" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="170xNyuYone6XA55Lbbf-57" value="Async Pre-Processing" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;spacingTop=2;container=0;rounded=0;glass=0;fillStyle=solid;gradientColor=none;fontStyle=5" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="198" y="40" width="774" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="170xNyuYone6XA55Lbbf-9" target="170xNyuYone6XA55Lbbf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-9" value="LangGraph Information Extractor&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="411" y="121.25" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-10" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="198" y="91.25" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-4" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.documents;" vertex="1" parent="170xNyuYone6XA55Lbbf-10">
+          <mxGeometry x="55" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-5" value="Documents &lt;br&gt;(Circulars, Notifications, etc)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="170xNyuYone6XA55Lbbf-10">
+          <mxGeometry y="80" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="170xNyuYone6XA55Lbbf-4" target="170xNyuYone6XA55Lbbf-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-14" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="596" y="93.75" width="180" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-8" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.json" vertex="1" parent="170xNyuYone6XA55Lbbf-14">
+          <mxGeometry x="55" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-13" value="Structured Information JSON&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="170xNyuYone6XA55Lbbf-14">
+          <mxGeometry y="85" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="802" y="90" width="170" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-15" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.hdfs_cluster;" vertex="1" parent="170xNyuYone6XA55Lbbf-17">
+          <mxGeometry x="46" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-16" value="Neo4j Graph and Vector DB&lt;br&gt;(Knowledge Graph&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="170xNyuYone6XA55Lbbf-17">
+          <mxGeometry y="82.5" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="170xNyuYone6XA55Lbbf-8" target="170xNyuYone6XA55Lbbf-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="601" y="240" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-19" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="170xNyuYone6XA55Lbbf-22">
+          <mxGeometry x="55" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-20" value="Chroma Vector DB" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="170xNyuYone6XA55Lbbf-22">
+          <mxGeometry x="25" y="70" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="170xNyuYone6XA55Lbbf-9" target="170xNyuYone6XA55Lbbf-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-60" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="400" width="970" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-59" value="User Chat Interface" style="group;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;container=0;fontStyle=5" vertex="1" connectable="0" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry width="970" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="101.25" as="targetPoint" />
+            <mxPoint x="160" y="101.25" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-24" value="Chainlit Chat Interface" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry x="20" y="71.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-25" value="" style="group" vertex="1" connectable="0" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry x="263" y="40" width="170" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-26" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.hdfs_cluster;" vertex="1" parent="170xNyuYone6XA55Lbbf-25">
+          <mxGeometry x="46" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-27" value="Neo4j Vector DB&lt;br&gt;(Similarity Search&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="170xNyuYone6XA55Lbbf-25">
+          <mxGeometry x="25" y="82.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-29" value="User Query" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry x="183" y="61.25" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-30" value="" style="group" vertex="1" connectable="0" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry x="532" y="40" width="170" height="122.5" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-31" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.hdfs_cluster;" vertex="1" parent="170xNyuYone6XA55Lbbf-30">
+          <mxGeometry x="46" width="78" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-32" value="Neo4j Graph DB&lt;br&gt;(Latest Connected Node&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="170xNyuYone6XA55Lbbf-30">
+          <mxGeometry x="5" y="82.5" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-34" value="Most Relevant &lt;br&gt;Document Name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry x="423" y="56.25" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-38" value="" style="group" vertex="1" connectable="0" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry x="800" y="49" width="170" height="112.25" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="170xNyuYone6XA55Lbbf-38">
+          <mxGeometry x="55" width="60" height="64.61681914144968" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-40" value="Chroma Vector DB&lt;br&gt;(Filtered Similarity Search)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="170xNyuYone6XA55Lbbf-38">
+          <mxGeometry x="5" y="70.12004456955196" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-42" value="Latest Document Name" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry x="680" y="61.25" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="241.25" as="targetPoint" />
+            <mxPoint x="890" y="161.25" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="890" y="241.25" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="241.25" as="sourcePoint" />
+            <mxPoint x="80" y="141.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-43" value="RAG Chain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry x="418" y="211.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="538" y="100.72000000000003" as="targetPoint" />
+            <mxPoint x="418" y="100.72000000000003" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="100.72000000000003" as="targetPoint" />
+            <mxPoint x="700" y="100.72000000000003" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-53" value="Query Specific Context&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry x="680" y="211.25" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="170xNyuYone6XA55Lbbf-55" value="Query Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="170xNyuYone6XA55Lbbf-60">
+          <mxGeometry x="175" y="209.25" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,31 @@
+{
+    "name": "A.P. (DIR Series) Circular No. 24",
+    "date_of_issue": "April 27, 2018",
+    "summary": "The Reserve Bank of India (RBI) has issued a circular revising the framework for Foreign Portfolio Investors (FPI) investments in debt, effective April 27, 2018. The changes include the withdrawal of minimum residual maturity requirements for Central Government securities and State Development Loans, subject to certain conditions. The circular revises investment limits and rules for Foreign Portfolio Investors (FPIs) in corporate bonds, Central Government securities, and debt securities. It also introduces online monitoring of G-sec utilization limits and concentration limits for FPI investments. The circular outlines new investment limits for Foreign Portfolio Investors (FPIs), including a 2.5% increase in portfolio size, and restrictions on investments in corporate bonds, such as a 50% limit per issue and a 20% exposure limit to a single corporate entity. Additionally, FPIs are prohibited from investing in partly paid instruments, and these directions take effect immediately.",
+    "relations": {
+        "FEMA.20/2000-RB": "amended",
+        "AP (DIR Series) Circular No. 22": "superseded",
+        "AP (DIR Series) Circular No. 13": "withdrawn",
+        "AP (DIR Series) Circular No. 71": "withdrawn",
+        "A.P. (DIR Series) Circular No. 19 dated October 6, 2015": "revised",
+        "Clearing Corporation of India Ltd. (CCIL)": "commenced",
+        "The Foreign Exchange Management Act, 1999 (42 of 1999)": "issued under",
+        "sections 10(4) and 11(1) of the Foreign Exchange Management Act, 1999 (42 of 1999)": "without prejudice to"
+    },
+    "questions": [
+        "What is the revised framework for Foreign Portfolio Investors (FPI) in debt announced by AP (DIR Series) Circular No. 22?",
+        "What changes are made to operational aspects of FPI investment as per A.P. (DIR Series) Circular No. 24?",
+        "What percentage of total investment in a category can an FPI invest in securities with residual maturity below 1 year?",
+        "What is the minimum residual maturity required for corporate bonds that FPIs can invest in?",
+        "How has the cap on aggregate FPI investments in any Central Government security been revised?",
+        "What is the new limit utilization threshold for G-sec limits after which the auction mechanism is triggered?",
+        "What are the concentration limits for investment by FPIs in each of the three categories of debt (G-secs, SDLs, and corporate debt securities)?",
+        "What relaxations will be allowed to FPIs that have investments in excess of the concentration limit on the effective date?",
+        "what is the maximum investment limit for FPIs in a specific category?",
+        "how does the concentration limit affect FPI investments?",
+        "what are the requirements for FPI investment in corporate bonds?",
+        "can an FPI have more than 50% exposure to a single corporate bond issue?",
+        "what is the stipulation for FPIs with exposure exceeding 20% to a single corporate?",
+        "are partly paid instruments allowed for FPI investments?"
+    ]
+}
