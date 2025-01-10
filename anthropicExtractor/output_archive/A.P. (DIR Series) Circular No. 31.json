@@ -1,0 +1,21 @@
+{
+    "name": "Investment by Foreign Portfolio Investors (FPI) in Debt \u2013 Review (RBI/2017-18/199 A.P. (DIR Series) Circular No.31)",
+    "date_of_issue": "June 15, 2018 (Updated up to February 26, 2021)",
+    "summary": "This circular revises regulations for FPI investments in debt instruments in India. Key changes include modifying minimum residual maturity requirements for government and corporate bonds, increasing the cap on aggregate FPI investments in government securities to 30%, implementing online monitoring of G-sec and SDL investments through CCIL, establishing concentration limits for different categories of FPIs, and setting single/group investor-wise limits in corporate bonds. The document introduces the concept of 'Exempted Securities' and provides operational flexibility for FPIs and custodians to adapt to these regulations.",
+    "relations": {
+        "Foreign Exchange Management (Debt Instruments) Regulations, 2019 (FEMA.396/2019-RB dated October 17, 2019)": "referenced",
+        "A.P. (DIR Series) Circular No. 22 dated April 6, 2018": "referenced",
+        "A.P. (DIR Series) Circular No. 24 dated April 27, 2018": "superseded",
+        "A.P. (DIR Series) Circular No. 26 dated May 1, 2018": "superseded",
+        "A.P. (DIR Series) Circular No. 13 dated July 23, 2014": "referenced",
+        "A.P. (DIR Series) Circular No. 71 dated February 03, 2015": "referenced",
+        "A.P. (DIR Series) Circular No. 19 dated October 6, 2015": "referenced"
+    },
+    "questions": [
+        "What is the maximum percentage of short-term investments allowed for an FPI in any category?",
+        "What is the concentration limit for long-term FPIs in each category of debt?",
+        "What is the maximum percentage of any issue of a corporate bond that can be invested in by an FPI including related FPIs?",
+        "What is the reinvestment time period allowed for FPIs after sale/redemption of securities in G-secs and SDLs?",
+        "Which organization is responsible for online monitoring of utilization of FPI investment limits in G-secs and SDLs?"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "name": "A.P. (DIR Series) Circular No.31",
+    "date_of_issue": "June 15, 2018",
+    "summary": "This circular reviews and modifies regulations for Foreign Portfolio Investors (FPI) investments in debt instruments. It introduces changes to minimum residual maturity requirements, revises security-wise limits, establishes online monitoring systems, and sets concentration limits for FPI investments. Key changes include allowing FPIs to invest in government securities without minimum residual maturity requirements, setting a 30% cap on short-term investments, and establishing new concentration limits for different categories of FPIs. The circular also addresses single/group investor-wise limits in corporate bonds and provides guidelines for pipeline investments.",
+    "relations": {
+        "Foreign Exchange Management (Debt Instruments) Regulations, 2019": "referenced",
+        "A.P. (DIR Series) Circular No. 22 dated April 6, 2018": "referenced",
+        "A.P. (DIR Series) Circular No. 24 dated April 27, 2018": "superseded",
+        "A.P. (DIR Series) Circular No. 26 dated May 1, 2018": "superseded",
+        "A.P. (DIR Series) Circular No. 13 dated July 23, 2014": "referenced",
+        "A.P. (DIR Series) Circular No. 71 dated February 3, 2015": "referenced",
+        "A.P. (DIR Series) Circular No. 19 dated October 6, 2015": "referenced"
+    },
+    "questions": [
+        "What is the definition of short-term investments according to the circular?",
+        "What is the concentration limit for Long-term FPIs in each category of debt?",
+        "What is the maximum percentage of any issue of a corporate bond that can be invested in by an FPI including related FPIs?",
+        "By what date must pipeline investments commence according to the circular?",
+        "What is the revised cap on aggregate FPI investments in any Central Government security?"
+    ]
+}

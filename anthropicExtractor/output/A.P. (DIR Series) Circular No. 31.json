@@ -1,0 +1,21 @@
+{
+    "name": "A.P. (DIR Series) Circular No.31",
+    "date_of_issue": "June 15, 2018",
+    "summary": "This circular provides revised regulations for Foreign Portfolio Investors (FPI) investments in debt instruments. It introduces operational flexibility and transition paths for FPIs and custodians, including changes to minimum residual maturity requirements, concentration limits, and monitoring mechanisms. The circular modifies investment limits in government securities and corporate bonds, establishes new definitions for various security types, and implements online monitoring through CCIL.",
+    "relations": {
+        "A.P. (DIR Series) Circular No. 22": "referenced",
+        "A.P. (DIR Series) Circular No. 24": "superseded",
+        "A.P. (DIR Series) Circular No. 26": "superseded",
+        "A.P. (DIR Series) Circular No. 13": "referenced",
+        "A.P. (DIR Series) Circular No. 71": "referenced",
+        "A.P. (DIR Series) Circular No. 19": "referenced",
+        "Foreign Exchange Management (Debt Instruments) Regulations 2019": "invoked"
+    },
+    "questions": [
+        "What is the definition of short-term investments according to the circular?",
+        "What is the concentration limit for Long-term FPIs in each category of debt?",
+        "What is the maximum percentage of any corporate bond issue that a single FPI can invest in?",
+        "What is the role of CCIL in monitoring FPI investments?",
+        "What are the three types of instruments included under 'Exempted Securities'?"
+    ]
+}

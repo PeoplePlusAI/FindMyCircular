@@ -1,0 +1,19 @@
+{
+    "name": "A.P. (DIR Series) Circular No. 24",
+    "date_of_issue": "April 27, 2018",
+    "summary": "This circular reviews and modifies regulations for Foreign Portfolio Investors (FPI) investments in debt instruments. Key changes include revising minimum residual maturity requirements for government and corporate bonds, increasing the cap on aggregate FPI investments in Central Government securities from 20% to 30%, implementing online monitoring of G-sec utilization limits through CCIL, establishing new concentration limits for different FPI categories, and setting restrictions on corporate bond investments. The circular also prohibits FPI investments in partly paid instruments.",
+    "relations": {
+        "Notification No. FEMA.20/2000-RB": "referenced",
+        "A.P. (DIR Series) Circular No. 22": "referenced",
+        "A.P. (DIR Series) Circular No. 13": "amended",
+        "A.P. (DIR Series) Circular No. 71": "amended",
+        "A.P. (DIR Series) Circular No. 19": "amended"
+    },
+    "questions": [
+        "What is the new cap on aggregate FPI investments in any Central Government security?",
+        "When will the auction mechanism for G-sec limits be discontinued?",
+        "What is the concentration limit for Long-term FPIs in each debt category?",
+        "What is the maximum exposure limit for an FPI to a single corporate in its corporate bond portfolio?",
+        "Are FPIs permitted to invest in partly paid instruments?"
+    ]
+}

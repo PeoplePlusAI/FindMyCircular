@@ -1,0 +1,21 @@
+{
+    "name": "RBI/2017-18/199 A.P. (DIR Series) Circular No.31",
+    "date_of_issue": "June 15, 2018 (Updated up to February 26, 2021)",
+    "summary": "This circular reviews and modifies regulations regarding Foreign Portfolio Investors' (FPI) investments in debt instruments. Key changes include revising minimum residual maturity requirements, introducing new concentration limits, establishing online monitoring systems through CCIL, and modifying single/group investor-wise limits in corporate bonds. The circular provides operational flexibility and transition paths for FPIs and custodians, increases the cap on aggregate FPI investments in Central Government securities to 30%, and introduces specific definitions for short-term investments and exempted securities.",
+    "relations": {
+        "Foreign Exchange Management (Debt Instruments) Regulations, 2019 (FEMA 396/2019-RB)": "referenced",
+        "A.P. (DIR Series) Circular No. 22 dated April 6, 2018": "referenced",
+        "A.P. (DIR Series) Circular No. 24 dated April 27, 2018": "superseded",
+        "A.P. (DIR Series) Circular No. 26 dated May 1, 2018": "superseded",
+        "A.P. (DIR Series) Circular No. 13 dated July 23, 2014": "referenced",
+        "A.P. (DIR Series) Circular No. 71 dated February 03, 2015": "referenced",
+        "A.P. (DIR Series) Circular No. 19 dated October 6, 2015": "referenced"
+    },
+    "questions": [
+        "What is the maximum percentage of short-term investments allowed for an FPI in any category?",
+        "What is the revised cap on aggregate FPI investments in any Central Government security?",
+        "What is the definition of 'short-term investments' according to the circular?",
+        "What is the minimum residual maturity requirement for FPI investments in corporate bonds?",
+        "What is the investment limit for any FPI, including investments by related FPIs, in any issue of a corporate bond?"
+    ]
+}

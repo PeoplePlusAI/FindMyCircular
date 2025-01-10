@@ -1,0 +1,18 @@
+{
+    "name": "A.P. (DIR Series) Circular No. 26",
+    "date_of_issue": "May 1, 2018",
+    "summary": "This circular provides clarifications and regulations regarding Foreign Portfolio Investors' (FPI) investments in debt securities. It introduces a 20% cap on investments in corporate bonds with residual maturity below one year, bringing consistency across debt categories including G-secs and SDLs. The circular also clarifies various operational aspects including the definition of related FPIs, concentration limits, and implementation timeline for online monitoring of G-sec limits.",
+    "relations": {
+        "Foreign Exchange Management (Transfer or Issue of Security by a Person Resident outside India) Regulations, 2000": "referenced",
+        "AP (DIR Series) Circular No. 24 dated April 27, 2018": "amended",
+        "Companies Act, 2013": "referenced",
+        "Foreign Exchange Management Act, 1999": "invoked"
+    },
+    "questions": [
+        "What is the maximum percentage of total investment allowed for securities with residual maturity below one year in any category?",
+        "What is the implementation date set for online monitoring of utilization of G-sec limits?",
+        "How is the term 'related FPIs' defined in the circular?",
+        "What is the deadline given to FPIs to bring their investments below 20% if they exceed this limit as of May 2, 2018?",
+        "Are FPIs permitted to invest in treasury bills issued by the Central Government?"
+    ]
+}
